@@ -1,0 +1,5 @@
+#add_subdirectory(helloworld)
+#add_subdirectory(firstapp)
+add_subdirectory(a1DearImGui)
+#add_subdirectory(tictactoe)
+#add_subdirectory(sierpinski)
